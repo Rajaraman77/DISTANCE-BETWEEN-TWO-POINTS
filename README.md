@@ -10,7 +10,8 @@ Importing math module in program
 Assigning 2 list for matrix calculation
 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/Rajaraman77/DISTANCE-BETWEEN-TWO-POINTS/assets/150319383/47062b56-1620-4eae-9495-4f688951e829)
+
 
 ### Step 4:
 Print the statements
