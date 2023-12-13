@@ -31,6 +31,7 @@ d=math.sqrt((x_2-x_1)**2+(y_2-y_1)**2)
 print(f"{d:,.2f}")
 ``` 
 ### OUTPUT:
-![output](/Screenshot%202023-12-13%20083140.png)
+![Screenshot 2023-12-13 083140](https://github.com/Rajaraman77/DISTANCE-BETWEEN-TWO-POINTS/assets/150319383/399803b9-bc12-4255-ab1d-3709eefcab28)
+
 ### RESULT:
 Thus the DISTANCE-BETWEEN-TWO-POINTS are successfully executed.
